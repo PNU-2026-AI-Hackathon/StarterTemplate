@@ -1,4 +1,4 @@
-# 🤝 Contributing to Basket Match App
+# 🤝 Contributing to MOIRA App
 
 프로젝트에 기여해 주셔서 감사합니다. 🙌 이 문서는 우리 팀이 높은 품질의 코드를 유지하고 효율적으로 협업하기 위해 반드시 준수해야 할 가이드라인입니다. 모든 팀원은 작업을 시작하기 전에 이 문서를 숙지해야 합니다.
 
