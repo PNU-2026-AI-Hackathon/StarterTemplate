@@ -307,8 +307,6 @@ flowchart TD
 
 ### 3.3. 기능명세서
 
-> TODO: 기능명세서 링크 또는 문서 첨부
-
 - Notion 문서: TODO
 - Google Spreadsheet: TODO
 - PDF 문서: TODO
@@ -424,8 +422,6 @@ PNUAI-A-02-POTG/
 - Git
 - VS Code
 
-> 권장 버전은 추후 팀 개발 환경에 맞춰 확정 예정입니다.
-
 ---
 
 ### 4.2. 프로젝트 클론
@@ -455,8 +451,6 @@ http://localhost:3000
 
 ### 4.4. 백엔드 실행
 
-> TODO: 백엔드 프로젝트 구성 후 실행 방법 작성
-
 ```bash
 cd apps/backend
 npm install
@@ -467,8 +461,6 @@ npm run start:dev
 
 ### 4.5. 환경 변수 설정
 
-> TODO: 실제 API, DB 연동 시 `.env` 예시 작성
-
 ```env
 DATABASE_URL=
 AI_API_KEY=
@@ -478,8 +470,6 @@ JWT_SECRET=
 ---
 
 ## 5. 소개 및 시연 영상
-
-> TODO: 프로젝트 소개 및 시연 영상 URL 삽입
 
 - 소개 영상: TODO
 - 시연 영상: TODO
@@ -502,14 +492,9 @@ JWT_SECRET=
 | 윤상현 | 프론트엔드 / 백엔드 | 프론트엔드 및 백엔드 개발, 기능 구현 |
 | 양현서 | 기획 / UX/UI | 사용자 경험 설계, 화면 구성, 기획 보조 |
 
-> 공개 레포지토리에는 개인 전화번호 등 민감한 연락처를 직접 작성하지 않는 것을 권장합니다.  
-> 필요한 경우 GitHub 계정 또는 팀 공용 이메일을 기재할 예정입니다.
-
 ---
 
 ## 7. 해커톤 참여 후기
-
-> TODO: 해커톤 종료 후 팀원별 참여 후기 작성
 
 ### 박현아
 
