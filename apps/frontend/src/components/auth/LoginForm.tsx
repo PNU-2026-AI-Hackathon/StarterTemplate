@@ -10,11 +10,6 @@ export default function LoginForm() {
 
   function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
-
-    console.log({
-      email,
-      password,
-    });
   }
 
   return (
