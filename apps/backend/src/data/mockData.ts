@@ -1,3 +1,5 @@
+import bcrypt from 'bcryptjs';
+
 export type Announcement = {
   id: string;
   title: string;
@@ -165,7 +167,12 @@ export const agendaItems: AgendaItem[] = [
 ];
 
 export const users = [
-  { id: 'u1', name: '홍길동', email: 'test@example.com', password: 'password123' },
+  {
+    id: 'u1',
+    name: '홍길동',
+    email: 'test@example.com',
+    password: bcrypt.hashSync('password123', 10),
+  },
 ];
 
 export function searchAll(query: string, type?: string) {
